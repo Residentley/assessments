@@ -36,6 +36,9 @@ The API endpoint for fetching data is: [API Endpoint](https://jsonplaceholder.ty
 - Typescript
 - Axios / Fetch
 
+## Resources
+- Satoshi Font Family - [Download Link](https://www.cdnfonts.com/satoshi.font)
+
 ## Submission
 - Submit your completed assessment by pushing your code to a public repository and share the link on Whatsapp.
 - Due to the urgency of the role, submissions received beyond the specified deadline of 3 days will not be accepted.
